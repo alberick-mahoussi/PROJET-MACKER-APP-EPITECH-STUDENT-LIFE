@@ -2,17 +2,17 @@
 
 ## Titre de l'Application : EPITECH STUDENT LIFE
 
-## Fonctionnalités principales :##
+## Fonctionnalités principales :
 
-## 1 . Création de Channel :  Les utilisateurs peuvent créer des canaux de discussion thématiques liés à l'école et autres 
+ 1 . **Création de Channel :  Les utilisateurs peuvent créer des canaux de discussion thématiques liés à l'école et autres**
 
-3. **Échange de discussion :** Possibilité d'envoyer des messages texte, médias et d'organiser des événements dans les canaux.
+2. **Échange de discussion :** Possibilité d'envoyer des messages texte, médias et d'organiser des événements dans les canaux.
 
-4. **Profil Utilisateur :** Chaque utilisateur peut créer et personnaliser son profil, y compris des informations telles que la classe, les matières préférées, etc.
+3. **Profil Utilisateur :** Chaque utilisateur peut créer et personnaliser son profil, y compris des informations telles que la classe, les matières préférées, etc.
 
-5. **API de commande de repas :** Intégration d'une API permettant aux utilisateurs de commander de la nourriture directement depuis l'application.
+4. **API de commande de repas :** Intégration d'une API permettant aux utilisateurs de commander de la nourriture directement depuis l'application.
 
-6. **Carte de l'école :** Intégration d'une carte interactive de l'école, permettant aux utilisateurs de localiser des salles de classe, des installations et d'autres points d'intérêt.
+5. **Carte de l'école :** Intégration d'une carte interactive de l'école, permettant aux utilisateurs de localiser des salles de classe, des installations et d'autres points d'intérêt.
 
 **Fonctionnalités supplémentaires :**
 - Notifications push pour les nouveaux messages et événements.
